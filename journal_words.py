@@ -1,7 +1,8 @@
 # journal_words.py
 
 def create_wordslist():
-     pass
+     list_1 = []
+     
 
 def read_wordslist():
      pass
